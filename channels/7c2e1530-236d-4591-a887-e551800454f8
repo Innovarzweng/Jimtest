@@ -2,8 +2,8 @@
   <id>7c2e1530-236d-4591-a887-e551800454f8</id>
   <nextMetaDataId>2</nextMetaDataId>
   <name>test medford</name>
-  <description>test test </description>
-  <revision>24</revision>
+  <description>test test 123456</description>
+  <revision>26</revision>
   <sourceConnector version="4.5.0">
     <metaDataId>0</metaDataId>
     <name>sourceConnector</name>
