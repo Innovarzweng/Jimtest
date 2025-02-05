@@ -2,8 +2,8 @@
   <id>971a5406-ad8b-4313-a042-89d4c5131ea2</id>
   <nextMetaDataId>2</nextMetaDataId>
   <name>test github 450</name>
-  <description>test github 450</description>
-  <revision>1</revision>
+  <description>test github 450 test RSA key</description>
+  <revision>2</revision>
   <sourceConnector version="4.5.0">
     <metaDataId>0</metaDataId>
     <name>sourceConnector</name>
